@@ -1,0 +1,5 @@
+C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\ButtonScratch\android\build\intermediates\classes\debug
+C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\ButtonScratch\android\build\intermediates\pre-dexed\debug\core-1.0-9972e6c1a7af4e95ab5edb9d96a87e529c0593d1.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\ButtonScratch\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.4.1-61761c6725fe638684f30ee158e13c4a9609d8bd.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\ButtonScratch\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.4.1-a80925ebcde832bd17fcb9d1f065e688ef46fd84.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\ButtonScratch\android\build\intermediates\pre-dexed\debug\gdx-1.4.1-f25d34dfc6c234923e45a9eece356ef8a51fa8ba.jar
