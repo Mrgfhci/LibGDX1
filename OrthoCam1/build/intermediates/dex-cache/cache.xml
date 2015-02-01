@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.1.0\82bac8cad6de9e81bf3ebee1006f36ef0417e1b7\ashley-1.1.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="82bac8cad6de9e81bf3ebee1006f36ef0417e1b7">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\android\build\intermediates\pre-dexed\debug\ashley-1.1.0-58eb61b9eb024cdc15ad86192d44b9a1343707a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.4.1\9e6453d244896698694a7f3059f15ae509044101\gdx-box2d-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="9e6453d244896698694a7f3059f15ae509044101">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.4.1-61761c6725fe638684f30ee158e13c4a9609d8bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\OrthoCam\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="9363478dc00e857fef02947f0f5295e01d9c0ef5">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\OrthoCam\android\build\intermediates\pre-dexed\debug\core-1.0-80095ef9a3f466c132111a8ae5f3cfe8cc87649f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.4.1\df470d263438048af74860ca51fc497c16a0c76a\gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-1.4.1-f25d34dfc6c234923e45a9eece356ef8a51fa8ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.4.1\5f8ec5c6c39339d2be0eb72a1ee15e8582a0b5b5\gdx-controllers-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="5f8ec5c6c39339d2be0eb72a1ee15e8582a0b5b5">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.4.1-bee5eae791fb70c360cfb02e1a6d0ed5aec39e6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.4.1\eca2621f18b162c03992bd3ecc226e8a477dc6f9\gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.4.1-a80925ebcde832bd17fcb9d1f065e688ef46fd84.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.2\8b3baf8bd6d5fdf7052d9798977133f46a9e7a05\box2dlights-1.2.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="8b3baf8bd6d5fdf7052d9798977133f46a9e7a05">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\android\build\intermediates\pre-dexed\debug\box2dlights-1.2-7b4916c987d4a2bd8a20eb178e40d81decdc7eaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="5eaaf5f0b1114b278bc7334afecca58e89fbe0a5">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\android\build\intermediates\pre-dexed\debug\core-1.0-0581980ea4588a56a285ede1a9b7e8d2b6bd930e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.4.1\70b356b52bac1cb0fd19b530e0e1ddac5776ab21\gdx-controllers-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="70b356b52bac1cb0fd19b530e0e1ddac5776ab21">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.4.1-3678ee746635ddecb076c3cbede7863cb1016064.jar" />
+    </item>
+
+</items>
