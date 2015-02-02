@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.4.1\eca2621f18b162c03992bd3ecc226e8a477dc6f9\gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\RivasPandyaRaithathaScratches\MultiTouchTest\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.4.1-a80925ebcde832bd17fcb9d1f065e688ef46fd84.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\RivasPandyaRaithathaScratches\MultiTouchTest\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="3b42f57f1749504a3f8279132fff6dd534804cde">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\RivasPandyaRaithathaScratches\MultiTouchTest\android\build\intermediates\pre-dexed\debug\core-1.0-ebfdef2f2ee361093cd000b70ba03e6a689c50cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.4.1\9e6453d244896698694a7f3059f15ae509044101\gdx-box2d-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="9e6453d244896698694a7f3059f15ae509044101">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\RivasPandyaRaithathaScratches\MultiTouchTest\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.4.1-61761c6725fe638684f30ee158e13c4a9609d8bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.4.1\5f54c6af55fa98e8dc469809e952c980e07541a\gdx-freetype-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="05f54c6af55fa98e8dc469809e952c980e07541a">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\RivasPandyaRaithathaScratches\MultiTouchTest\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.4.1-8d96221eb1d10f7bdba43a36f94bbf112fdd2592.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.4.1\df470d263438048af74860ca51fc497c16a0c76a\gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\RivasPandyaRaithathaScratches\MultiTouchTest\android\build\intermediates\pre-dexed\debug\gdx-1.4.1-f25d34dfc6c234923e45a9eece356ef8a51fa8ba.jar" />
+    </item>
+
+</items>
