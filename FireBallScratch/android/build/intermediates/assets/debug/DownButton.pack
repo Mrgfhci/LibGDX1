@@ -1,0 +1,18 @@
+DownButton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArrowDown
+  rotate: false
+  xy: 2, 2
+  size: 100, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+PressedArrowDown
+  rotate: false
+  xy: 2, 105
+  size: 96, 96
+  orig: 102, 98
+  offset: 3, 0
+  index: -1
