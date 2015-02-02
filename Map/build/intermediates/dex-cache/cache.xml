@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.4.1\eca2621f18b162c03992bd3ecc226e8a477dc6f9\gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.4.1-a80925ebcde832bd17fcb9d1f065e688ef46fd84.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f49c83eebe44b660394209f8855935c7a3e05ec9">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\android\build\intermediates\pre-dexed\debug\core-1.0-842e5b60910374fa91b5acb1cd0baadf59fb4b6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.4.1\eca2621f18b162c03992bd3ecc226e8a477dc6f9\gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.4.1-a80925ebcde832bd17fcb9d1f065e688ef46fd84.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.4.1\9e6453d244896698694a7f3059f15ae509044101\gdx-box2d-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="9e6453d244896698694a7f3059f15ae509044101">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.4.1-61761c6725fe638684f30ee158e13c4a9609d8bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.4.1\9e6453d244896698694a7f3059f15ae509044101\gdx-box2d-1.4.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9e6453d244896698694a7f3059f15ae509044101">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.4.1-61761c6725fe638684f30ee158e13c4a9609d8bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.4.1\df470d263438048af74860ca51fc497c16a0c76a\gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\android\build\intermediates\pre-dexed\debug\gdx-1.4.1-f25d34dfc6c234923e45a9eece356ef8a51fa8ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.4.1\df470d263438048af74860ca51fc497c16a0c76a\gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\android\build\intermediates\pre-dexed\debug\gdx-1.4.1-f25d34dfc6c234923e45a9eece356ef8a51fa8ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\Map\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2aa5609d30971773f20dd2b81b95570c7d4313ed">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Scratches\Map\android\build\intermediates\pre-dexed\debug\core-1.0-130a39246c3fa96f8739291733bc8d636636de74.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="784f431f11d5e41776fb0d6d1d7e4b190823b572">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201409 Final\TheDeepDarkTaurock\android\build\intermediates\pre-dexed\debug\core-1.0-842e5b60910374fa91b5acb1cd0baadf59fb4b6e.jar" />
+    </item>
+
+</items>
