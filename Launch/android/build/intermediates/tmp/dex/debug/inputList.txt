@@ -1,0 +1,9 @@
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\classes\debug
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\pre-dexed\debug\core-1.0-bd2802d7dba00c7e97e06504f572b2c3b5623000.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.4.1-3678ee746635ddecb076c3cbede7863cb1016064.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.4.1-bee5eae791fb70c360cfb02e1a6d0ed5aec39e6f.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\pre-dexed\debug\ashley-1.1.0-58eb61b9eb024cdc15ad86192d44b9a1343707a0.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\pre-dexed\debug\box2dlights-1.2-7b4916c987d4a2bd8a20eb178e40d81decdc7eaa.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.4.1-61761c6725fe638684f30ee158e13c4a9609d8bd.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.4.1-a80925ebcde832bd17fcb9d1f065e688ef46fd84.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\WIP1\flightlessfury\android\build\intermediates\pre-dexed\debug\gdx-1.4.1-f25d34dfc6c234923e45a9eece356ef8a51fa8ba.jar
