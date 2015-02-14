@@ -1,3 +1,5 @@
+// slight modifications from http://www.gamefromscratch.com/post/2013/10/15/LibGDX-Tutorial-4-Handling-the-mouse-and-keyboard.aspx
+
 package gdx.input;
 
 import com.badlogic.gdx.ApplicationAdapter;
@@ -51,6 +53,15 @@ public class MyGdxGame implements ApplicationListener {
                 sprite.translateX(1f);
             else
                 sprite.translateX(10.0f);
+        }
+        // for mouse input.
+        if(Gdx.input.isButtonPressed(Input.Buttons.LEFT)){
+            sprite.setPosition(Gdx.input.getX() - sprite.getWidth()/2,
+                    Gdx.graphics.getHeight() - Gdx.input.getY() - sprite.getHeight()/2);
+        }
+        if(Gdx.input.isButtonPressed(Input.Buttons.RIGHT)){
+            sprite.setPosition(Gdx.graphics.getWidth()/2 -sprite.getWidth()/2,
+                    Gdx.graphics.getHeight()/2 - sprite.getHeight()/2);
         }
         batch.begin();
         sprite.draw(batch);
