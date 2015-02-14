@@ -1,0 +1,5 @@
+C:\Users\dadeeo\Documents\AndroidStudioProjects\G\GBox2d1\android\build\intermediates\classes\debug
+C:\Users\dadeeo\Documents\AndroidStudioProjects\G\GBox2d1\android\build\intermediates\pre-dexed\debug\core-1.0-788d80c3b55e04c98933e9a93fd65a33766f9ade.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\G\GBox2d1\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.3-705e5350b2c2d5204a852fa3cecc5e055d89be81.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\G\GBox2d1\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.3-b110db45714d47e1c1d11190fc1b618c7b5e6f3d.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\G\GBox2d1\android\build\intermediates\pre-dexed\debug\gdx-1.5.3-26b06ead6a42b831384c34efc9fe06a6393e7800.jar
