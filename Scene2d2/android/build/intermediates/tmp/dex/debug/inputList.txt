@@ -1,0 +1,5 @@
+C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d2\android\build\intermediates\classes\debug
+C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d2\android\build\intermediates\pre-dexed\debug\core-1.0-ff46fc7c78a26adf95a16f0e7d443432c9570e5c.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d2\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.4-b7310ef90c63ac182b42b0dc86741c9200cc5f0c.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d2\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.4-bcdbecdb8c044f9205e6fbd2e0383ba390061fdf.jar
+C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d2\android\build\intermediates\pre-dexed\debug\gdx-1.5.4-7f6114466d8ee5d0018c65fbb98a9e6762c3f589.jar
