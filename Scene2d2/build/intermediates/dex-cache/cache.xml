@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.4\c16e1a0088ae7f0cac4a8d6595be32432e6069f4\gdx-1.5.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c16e1a0088ae7f0cac4a8d6595be32432e6069f4">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\G2\Scene2d1\android\build\intermediates\pre-dexed\debug\gdx-1.5.4-7f6114466d8ee5d0018c65fbb98a9e6762c3f589.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\G2\Scene2d1\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="52be7b54d1d54567fa1f1535c913286fa1fb8571">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\G2\Scene2d1\android\build\intermediates\pre-dexed\debug\core-1.0-0926e4958ec8d779d7a369970920244ed97d8b9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.5.4\6b0e1e0ef1b4ee3010f4e55cceaa22ba9ace5cf2\gdx-box2d-1.5.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6b0e1e0ef1b4ee3010f4e55cceaa22ba9ace5cf2">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\G2\Scene2d1\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.4-b7310ef90c63ac182b42b0dc86741c9200cc5f0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d1\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f78ea2e7774c4786637b7bb8a8f321881575a04">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d1\android\build\intermediates\pre-dexed\debug\core-1.0-d04f6ee9b97bd7c27aa2b59f8cadb9fa6142ef04.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d2\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6b8429ce1a50692120ac050e313c6f3eb25a76c3">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\LibGDX1\Scene2d2\android\build\intermediates\pre-dexed\debug\core-1.0-ff46fc7c78a26adf95a16f0e7d443432c9570e5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dadeeo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.4\7b974b501dc92361698a1f6251f9e7b308582c08\gdx-backend-android-1.5.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b974b501dc92361698a1f6251f9e7b308582c08">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\G2\Scene2d1\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.4-bcdbecdb8c044f9205e6fbd2e0383ba390061fdf.jar" />
+    </item>
+
+</items>

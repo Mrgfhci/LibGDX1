@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dadeeo\Documents\AndroidStudioProjects\201509 4UI\0 G\MultiScreens\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed0c3023708d34acf70868c30af0e310db2ecb57">
+        <dex dex="C:\Users\dadeeo\Documents\AndroidStudioProjects\201509 4UI\0 G\MultiScreens\android\build\intermediates\pre-dexed\debug\core-1.0-f90ebd2d4a16c11069b090dfc4d3f77531fa6f87.jar" />
+    </item>
+
+</items>
